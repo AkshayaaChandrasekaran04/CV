@@ -47,4 +47,29 @@ body {
 .s1 {
   background:#CB997E;
   text-align: center;
+  padding: 20px;
+}
+.s2{
+  background: cornsilk;
+  text-align: center;
+  padding: 20px;
+}
+.s3{
+  display: flex;
+  padding: 20px;
+}
+#a1{
+  background:#CB997E;
+  text-align: center;
+  padding: 10px;
+}
+#a2{
+  background:cornsilk;
+  text-align: center;
+  padding: 10px;
+}
+#a3{
+  background:#CB997E;
+  text-align: center;
+  padding: 10px;
 }
